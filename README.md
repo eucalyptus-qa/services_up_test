@@ -1,3 +1,17 @@
+
+services_up_test
+================
+
+## Description
+
+Wait until all Eucalyptus services become enabled
+
+## Procedure
+
+
+
+<hr><hr><hr>
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
